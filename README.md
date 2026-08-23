@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Joel 👋</h1>
+<h1 align="center">Salut, je suis Joel Essoh 👋</h1>
 <h3 align="center">Développeur Mobile & Web | Flutter • Firebase • Clean Architecture</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 🚀 À propos de moi
 
-- 🎓 Licence en Génie Logiciel — développement d'applications web et mobiles
+- 🎓 Licence en Génie Logiciel à HEC Abidjan — développement d'applications web et mobiles
 - 📱 Spécialisé en développement **mobile cross-platform** avec Flutter
 - 🏗️ Sensible à la **Clean Architecture** et aux bonnes pratiques de modélisation (UML)
 - 🔍 Actuellement en recherche active d'un **stage** pour mettre mes compétences au service d'une équipe
@@ -56,11 +56,8 @@
 ### 📫 Me contacter
 
 <p>
-  <a href="mailto:VOTRE_EMAIL@example.com">
+  <a href="mailto:joelessoh2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/VOTRE-PROFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
