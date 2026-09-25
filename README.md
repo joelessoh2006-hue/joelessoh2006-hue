@@ -4,7 +4,7 @@
 
 Étudiant en Génie logiciel à HEC Abidjan, je développe des applications mobiles et web autour de besoins concrets. Je recherche un stage pour contribuer à des projets d’équipe et approfondir mes compétences au contact d’une équipe technique.
 
-Je m’intéresse aussi au développement backend, aux API, aux bases de données et aux applications métier. Je suis actuellement en train de renforcer mes bases en SQL et en développement côté serveur.
+Je m’intéresse aussi au développement backend, aux API, aux bases de données et aux applications métier.
 
 ## Compétences et outils
 
