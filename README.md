@@ -22,7 +22,7 @@ Application mobile Flutter consacrée à la recherche de colocations étudiantes
 ### [Spectrum App](https://github.com/joelessoh2006-hue/spectrum-app)
 Application web réalisée avec React, TypeScript et Cloud Firestore.
 
-## Contact
+## Contacts
 
 - [joelessoh2006@gmail.com](mailto:joelessoh2006@gmail.com)
 - **Téléphone :** +225 0767182139
