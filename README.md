@@ -17,10 +17,10 @@ Je m’intéresse aussi au développement backend, aux API, aux bases de donnée
 ## Projets
 
 ### [Mon-Coloc](https://github.com/joelessoh2006-hue/mon-coloc)
-Application mobile Flutter consacrée à la recherche de colocations étudiantes. Le dépôt présente les écrans de l’application, son organisation et les choix techniques.
+Application mobile Flutter de recherche de colocations étudiantes, avec gestion d’annonces et de profils, Cloud Firestore et intégration de Paystack en mode test.
 
-### [Spectrum App](https://github.com/joelessoh2006-hue/spectrum-app)
-Application web réalisée avec React, TypeScript et Cloud Firestore.
+### [Spectrum](https://github.com/joelessoh2006-hue/spectrum-app)
+Outil web personnel d’organisation du temps et des projets, développé avec React, TypeScript et Cloud Firestore. Le code source est disponible sur GitHub; le projet reflète mes propres workflows d’organisation.
 
 ## Contacts
 
