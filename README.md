@@ -25,5 +25,3 @@ Application web réalisée avec React, TypeScript et Cloud Firestore.
 ## Contact
 
 - [joelessoh2006@gmail.com](mailto:joelessoh2006@gmail.com)
-- **CV :** lien à ajouter
-- **Portfolio :** lien à ajouter
