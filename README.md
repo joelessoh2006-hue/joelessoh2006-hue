@@ -1,64 +1,29 @@
-<h1 align="center">Salut, je suis Joel Essoh 👋</h1>
-<h3 align="center">Développeur Mobile & Web | Flutter • Firebase • Clean Architecture</h3>
+# Bonjour, je suis Joel Essoh
 
-<p align="center">
-  Jeune diplômé en Génie Logiciel, à la recherche d'un <strong>stage professionnel</strong> en développement mobile/web.
-  Passionné par la résolution de problèmes concrets et l'architecture logicielle propre.
-</p>
+### Étudiant en Génie logiciel | Développement mobile et web | Recherche de stage
 
----
+Étudiant en Génie logiciel à HEC Abidjan, je développe des applications mobiles et web autour de besoins concrets. Je recherche un stage pour contribuer à des projets d’équipe et approfondir mes compétences au contact d’une équipe technique.
 
-### 🚀 À propos de moi
+Je m’intéresse aussi au développement backend, aux API, aux bases de données et aux applications métier. Je suis actuellement en train de renforcer mes bases en SQL et en développement côté serveur.
 
-- 🎓 Licence en Génie Logiciel à HEC Abidjan — développement d'applications web et mobiles
-- 📱 Spécialisé en développement **mobile cross-platform** avec Flutter
-- 🏗️ Sensible à la **Clean Architecture** et aux bonnes pratiques de modélisation (UML)
-- 🔍 Actuellement en recherche active d'un **stage** pour mettre mes compétences au service d'une équipe
-- 💬 Ouvert à toute discussion technique, mentorat, ou opportunité
+## Compétences et outils
 
----
+- **Mobile :** Flutter, Dart
+- **Web :** React, TypeScript
+- **Services et données :** Firebase, Cloud Firestore, intégration de services
+- **Conception :** UML, principes de Clean Architecture
+- **En cours d’apprentissage :** SQL, bases de données relationnelles et développement backend
 
-### 🛠️ Stack technique
+## Projets
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-4A90E2?style=for-the-badge" />
-</p>
+### [Mon-Coloc](https://github.com/joelessoh2006-hue/mon-coloc)
+Application mobile Flutter consacrée à la recherche de colocations étudiantes. Le dépôt présente les écrans de l’application, son organisation et les choix techniques.
 
----
+### [Spectrum App](https://github.com/joelessoh2006-hue/spectrum-app)
+Application web réalisée avec React, TypeScript et Cloud Firestore.
 
-### 🌟 Projet phare
+## Contact
 
-**[Mon-Coloc](https://github.com/joelessoh2006-hue/Mon-Coloc)** — Application mobile Flutter de recherche de colocations étudiantes.
-> Cloud Firestore • API REST • Architecture propre et modulaire • Pensée pour un usage réel par des étudiants.
-
-➡️ Voir le README détaillé du projet pour l'architecture, les fonctionnalités et les captures d'écran.
-
----
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelessoh2006-hue&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelessoh2006-hue&hide_border=true" />
-</p>
-
----
-
-### 📫 Me contacter
-
-<p>
-  <a href="mailto:joelessoh2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Disponible immédiatement pour un stage — CV et portfolio sur demande.</i></p>
+- [joelessoh2006@gmail.com](mailto:joelessoh2006@gmail.com)
+- **CV :** lien à ajouter
+- **Portfolio :** lien à ajouter
