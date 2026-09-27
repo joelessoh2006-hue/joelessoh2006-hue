@@ -1,8 +1,8 @@
 # Bonjour, je suis Joel Essoh
 
-### Étudiant en Génie logiciel | Développement mobile et web | Recherche de stage
+### Titulaire d’une Licence en Génie logiciel | Développement mobile et web | Recherche de stage
 
-Étudiant en Génie logiciel à HEC Abidjan, je développe des applications mobiles et web autour de besoins concrets. Je recherche un stage pour contribuer à des projets d’équipe et approfondir mes compétences au contact d’une équipe technique.
+Diplômé d’une Licence en Génie logiciel obtenue à HEC Abidjan, je développe des applications mobiles et web autour de besoins concrets. Je recherche un stage pour contribuer à des projets d’équipe et approfondir mes compétences au contact d’une équipe technique.
 
 Je m’intéresse aussi au développement backend, aux API, aux bases de données et aux applications métier.
 
