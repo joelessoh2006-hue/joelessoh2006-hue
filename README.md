@@ -10,9 +10,8 @@ Je m’intéresse aussi au développement backend, aux API, aux bases de donnée
 
 - **Mobile :** Flutter, Dart
 - **Web :** HTML, CSS, JavaScript, React, TypeScript
-- **Services et données :** Firebase, Cloud Firestore, intégration de services
+- **Données et services :** SQL, MySQL, Firebase, Cloud Firestore, intégration d’API REST
 - **Conception :** UML, principes de Clean Architecture
-- **En cours d’apprentissage :** SQL, bases de données relationnelles et développement backend
 
 ## Projets
 
